@@ -1,0 +1,78 @@
+input{
+    background-color: rgba(76, 103, 76, 0.263);
+    border: none;
+    height: 50px;
+  }
+button, .bn{
+    height: 50px;
+    width: auto;
+    background-color: rgb(76, 103, 76);
+    border: none;
+  }
+.vedio1{
+    position: absolute;
+    left:0;
+    top: 0;
+    height: 100vh;
+    width: 100vw;
+    background-position:center;
+    background-size: cover;
+    position: fixed;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position:center;
+    object-position:center;
+    
+  }
+.x{
+  background-color:rgb(76, 103, 76);
+  width: 100vw;
+  height: 5rem;
+  }
+.main{
+  
+    height: 100vh;
+    width: 100vw;
+  }
+.discrip{
+  position:absolute;
+  color:whitesmoke;
+  padding-left: 5rem;
+  padding-top: 20rem;
+  font-size: 5rem;
+  }
+.dis1{
+    color:aliceblue;
+    font-size: 2.2rem;
+  
+  }
+.buttons1{
+    position: absolute;
+  
+    margin-left:78rem;
+    margin-top:26rem;
+  
+  }
+.b{
+    height: 3.5rem;
+    width: 7.5rem;
+    margin-left: 2rem;
+    background-color:rgb(76, 103, 76);
+    color: white;
+    border-radius: 10px;
+  }
+.a{
+    margin-left:2rem;
+    font-size: 1.3rem;
+  }
+.sh{
+    height:3rem;
+    width: 30rem;
+    margin-left: 13rem;
+    border-radius: 0.3rem;
+  }
+.logo{
+    height: 5rem;
+    width: 7rem;
+    margin-left: -2rem;
+  }
